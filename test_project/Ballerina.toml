@@ -1,0 +1,9 @@
+[package]
+org = "devantipaas"
+name = "test_project"
+version = "0.1.0"
+distribution = "2201.13.3"
+title = "Test Project"
+
+[build-options]
+sticky = true
